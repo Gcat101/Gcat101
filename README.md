@@ -4,7 +4,7 @@
 [![ukraine](https://img.shields.io/badge/Stand%20with-%F0%9F%87%BA%F0%9F%87%A6-yellow?style=flat-square)](https://img.shields.io/badge/Stand%20with-%F0%9F%87%BA%F0%9F%87%A6-yellow?style=flat-square)
 ![prs](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Merged%20PRs&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Agcat101%2520type%3Apr%2520is%3Amerged)
 
-[!["ETH"](https://etherscan.io/address/0x48ff2570f2095a9c7a2feeafd6c05239fc609def)
+[!["ETH"](https://img.shields.io/badge/Ethereum-wallet-lightgrey)](https://etherscan.io/address/0x48ff2570f2095a9c7a2feeafd6c05239fc609def)
 [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
