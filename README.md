@@ -1,4 +1,4 @@
-# Coding just because I want
+# Modern modpack guy
 
 [![russia](https://img.shields.io/badge/Made%20in-%F0%9F%87%B7%F0%9F%87%BA-red?style=flat-square)](https://img.shields.io/badge/Made%20in-%F0%9F%87%B7%F0%9F%87%BA-red?style=flat-square)
 [![ukraine](https://img.shields.io/badge/Stand%20with-%F0%9F%87%BA%F0%9F%87%A6-yellow?style=flat-square)](https://img.shields.io/badge/Stand%20with-%F0%9F%87%BA%F0%9F%87%A6-yellow?style=flat-square)
